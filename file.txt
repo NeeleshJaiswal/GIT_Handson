@@ -1,2 +1,3 @@
 First file
-1st commit
+1st commit with git commit
+2nd commit with git commit -a
