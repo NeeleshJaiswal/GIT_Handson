@@ -1,3 +1,5 @@
 First file
 1st commit with git commit
 2nd commit with git commit -a
+3rd commit with git commit -m "ur message"
+4th commit but will be merged in 3rd commit with the usage of git commit --amend
